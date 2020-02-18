@@ -1,0 +1,14 @@
+package IFstatemnet;
+
+public class ApplicationsJava {
+public static void main(String[] args) {
+	int number = 20;
+	
+	if(number == 21) {
+		System.out.println("to liczba" + number);
+	}
+	else {
+		System.out.println(" to liczba" + number);
+	}
+}
+}

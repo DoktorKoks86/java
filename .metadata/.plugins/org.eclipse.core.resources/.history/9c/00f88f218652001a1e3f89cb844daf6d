@@ -1,0 +1,8 @@
+package loopsFor;
+
+public class apkaForloops {
+	public static void main(String[] args) {
+		for(;;);
+		System.out.println("dupa");
+	}
+}

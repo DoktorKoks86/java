@@ -1,0 +1,10 @@
+package loops;
+
+public class MyApps {
+	public static void main(String[] args) {
+		boolean myLoop = 29 > 42;
+		
+		
+		System.out.println(myLoop);
+	}
+}
