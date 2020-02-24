@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="jdk.internal.org.objectweb.asm.tree.IntInsnNode"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="objects.Methods"/>
+    <fullyQualifiedTypeName name="com.sun.tools.sjavac.server.SysInfo"/>
 </qualifiedTypeNameHistroy>

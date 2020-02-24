@@ -18,4 +18,10 @@
 			<item value="pack"/>
 		</list>
 	</section>
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="571"/>
+		<item key="DIALOG_Y_ORIGIN" value="75"/>
+	</section>
+	<section name="NewWizardAction">
+	</section>
 </section>
